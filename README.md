@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou o Ruan 👋
 
-<!--
-**RuanAbr3u/RuanAbr3u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Gestão da Tecnologia da Informação  
+📊 Atualmente realizando o bootcamp de Análise de Dados - Randstad | DIO  
+⚙️ Interesses: Análise de Dados, Python, Power BI, Azure, Banco de Dados
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanAbr3u&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanAbr3u&show_icons=true&theme=dracula)
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/ruan-abr3u-ti)
