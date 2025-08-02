@@ -11,7 +11,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
 
 ## 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanAbr3u&layout=compact&theme=dracula)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanAbr3u&show_icons=true&theme=dracula)
 
 ## 📫 Contato
