@@ -1,4 +1,4 @@
-# Olá! Eu sou o Ruan 👋
+# Olá! Eu sou o Ruan👋
 
 🎓 Estudante de Gestão da Tecnologia da Informação  
 📊 Atualmente realizando o bootcamp de Análise de Dados - Randstad | DIO  
