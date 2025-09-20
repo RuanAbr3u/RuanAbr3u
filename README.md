@@ -28,11 +28,7 @@ Atualmente, estou focado em desenvolver projetos práticos envolvendo **bancos d
 | Projeto | Descrição | Link |
 |---------|-----------|------|
 | **Desafio SQL DIO** | Modelagem de banco de dados relacional com queries SQL | [GitHub](https://github.com/RuanAbr3u/DESAFIO-SQL-DIO-2) |
-| **Projeto Power BI – Vendas** | Dashboard interativo para análise de vendas e insights estratégicos | [GitHub](#) |
 | **Python – Análise de Dados** | Scripts para coleta, limpeza e visualização de dados em Python | [GitHub](https://github.com/RuanAbr3u/Analise-Temperatura) |
-
-> 💡 Dica: para cada projeto, adicione **print ou gif do resultado** do seu dashboard ou análise. Exemplo:  
-> ![Exemplo Dashboard](https://via.placeholder.com/400x200.png?text=Seu+Dashboard+Aqui)
 
 ---
 
