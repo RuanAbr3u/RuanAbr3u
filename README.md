@@ -1,18 +1,55 @@
-# Olá! Eu sou o Ruan👋
+# 👋 Olá, eu sou o Ruan Abreu
 
-🎓 Estudante de Gestão da Tecnologia da Informação  
-📊 Atualmente realizando o bootcamp de Análise de Dados - Randstad | DIO  
-⚙️ Interesses: Análise de Dados, Python, Power BI, Azure, Banco de Dados
+🎓 Estudante de **Gestão da Tecnologia da Informação**  
+📊 Apaixonado por **Dados, Automação e Inteligência Artificial**  
+💻 Experiência com **Python, SQL, Power BI e Azure**  
+⚙️ Formação complementar em **Análise de Dados, IA Industrial e Eletromecânica**
 
-## 🚀 Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
+---
 
-## 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanAbr3u&layout=compact&theme=dracula)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanAbr3u&show_icons=true&theme=dracula)
+## 🚀 Sobre mim
+Sou entusiasta da tecnologia e estou sempre em busca de aprender e aplicar novas ferramentas que possam transformar dados em insights valiosos.  
+Atualmente, estou focado em desenvolver projetos práticos envolvendo **bancos de dados, análise de dados e dashboards interativos**.  
+
+👉 Busco oportunidades em **Dados, TI e Automação**.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-0064a5?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| **Desafio SQL DIO** | Modelagem de banco de dados relacional com queries SQL | [GitHub](https://github.com/RuanAbr3u/DESAFIO-SQL-DIO-2) |
+| **Projeto Power BI – Vendas** | Dashboard interativo para análise de vendas e insights estratégicos | [GitHub](#) |
+| **Python – Análise de Dados** | Scripts para coleta, limpeza e visualização de dados em Python | [GitHub](https://github.com/RuanAbr3u/Analise-Temperatura) |
+
+> 💡 Dica: para cada projeto, adicione **print ou gif do resultado** do seu dashboard ou análise. Exemplo:  
+> ![Exemplo Dashboard](https://via.placeholder.com/400x200.png?text=Seu+Dashboard+Aqui)
+
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center">
+  
+![Ruan GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanAbr3u&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanAbr3u&layout=compact&theme=tokyonight)
+
+</div>
+
+---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/ruan-abr3u-ti)
+🌐 [LinkedIn](https://www.linkedin.com/in/ruan-abreu-santos/)  
+🐙 [GitHub](https://github.com/RuanAbr3u)
+
+---
+
+⭐ Se curtiu algum dos meus projetos, não esqueça de deixar uma estrela!
