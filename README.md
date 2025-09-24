@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ruan Abreu
+# 👋 Olá, eu sou o Ruan!
 
 🎓 Estudante de **Gestão da Tecnologia da Informação**  
 📊 Apaixonado por **Dados, Automação e Inteligência Artificial**  
@@ -44,7 +44,6 @@ Atualmente, estou focado em desenvolver projetos práticos envolvendo **bancos d
 
 ## 📫 Contato
 🌐 [LinkedIn](https://www.linkedin.com/in/ruan-abreu-santos/)  
-🐙 [GitHub](https://github.com/RuanAbr3u)
 
 ---
 
