@@ -1,8 +1,5 @@
 # 👋 Olá, eu sou o Ruan!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Qv0FhQjNf8L3C8v3jS/giphy.gif" alt="Coding GIF" width="100%">
-</p>
 
 ## 🚀 Sobre Mim e Minha Paixão
 Sou um estudante entusiasmado de **Engenharia de Software** com um foco duplo:
@@ -19,14 +16,15 @@ Estou sempre em busca de aprender e aplicar novas ferramentas, do banco de dados
 
 Minha experiência é focada em desenvolver soluções robustas e práticas, abrangendo a tríade **Dados**, **Automação** e **Desenvolvimento Web**:
 
-| Categoria | Tecnologias e Ferramentas |
-| :---: | :--- |
-| **Linguagens** | `Python` **|** `JavaScript` **|** `SQL` |
-| **Front-end** | `HTML5` **|** `CSS3` |
-| **Cloud & BD** | `Microsoft Azure` **|** `Banco de Dados Relacionais` |
-| **Visualização** | `Power BI` **|
-| **Controle de Versão** | `Git` **|** `GitHub` |
-| **Conceitos** | `Análise de Dados` **|** `Modelagem de BD` **|** `Automação` |
+| Categoria             | Tecnologias e Ferramentas                          |
+|----------------------|----------------------------------------------------|
+| **Linguagens**        | `Python`, `JavaScript`, `SQL`                      |
+| **Front-end**         | `HTML5`, `CSS3`                                    |
+| **Cloud & BD**        | `Microsoft Azure`, `Banco de Dados Relacionais`   |
+| **Visualização**      | `Power BI`                                         |
+| **Controle de Versão**| `Git`, `GitHub`                                    |
+| **Conceitos**         | `Análise de Dados`, `Modelagem de BD`, `Automação`|
+
 
 ### **Emblemas Detalhados**
 
@@ -46,9 +44,9 @@ Aqui estão todos os seus emblemas, incluindo as novas tecnologias:
 ---
 
 ## 🎯 Foco e Oportunidades
-Atualmente, estou focado em aplicar meus conhecimentos em **Engenharia de Software** para construir soluções completas: desde a coleta e tratamento de dados até o desenvolvimento da interface do usuário.
+Atualmente, estou focado em aplicar meus conhecimentos em Engenharia de Software para desenvolver soluções completas — da coleta e tratamento de dados à construção de interfaces intuitivas.
 
-👉 Busco ativamente por oportunidades e desafios nas áreas de **Desenvolvimento (Front-end ou Full-stack), Dados** e **Automação**.
+👉 Estou aberto a oportunidades nas áreas de Desenvolvimento Web (Front-end ou Full-stack), Dados e Automação.
 
 ---
 
@@ -64,16 +62,14 @@ Atualmente, estou focado em aplicar meus conhecimentos em **Engenharia de Softwa
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-    <hr>
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=RuanAbr3u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ruan GitHub Stats" width="48%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanAbr3u&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%">
-    
-    <img src="https://github-readme-streak-stats.vercel.app/?user=RuanAbr3u&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%">
+---
 
-    <hr>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuanAbr3u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ruan GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanAbr3u&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=RuanAbr3u&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%">
+</p>
+
 
 ---
 
