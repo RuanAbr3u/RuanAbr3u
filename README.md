@@ -8,7 +8,10 @@ Sou um estudante entusiasmado de **Engenharia de Software** com um foco duplo:
 
 Estou sempre em busca de aprender e aplicar novas ferramentas, do banco de dados ao navegador!
 
-🎓 Estudante de **Engenharia de Software** 📊 Paixão por **Dados, Automação e Inteligência Artificial** 💻 Focado em **Desenvolvimento Web** ⚙️ Formação complementar em **Análise de Dados, IA Industrial e Eletromecânica**
+🎓 Estudante de **Engenharia de Software** 
+📊 Paixão por **Dados, Automação e Inteligência Artificial** 
+💻 Focado em **Desenvolvimento Web**,**Banco de Dados** 
+⚙️ Formação complementar em **Análise de Dados, IA Industrial e Eletromecânica**
 
 ---
 
