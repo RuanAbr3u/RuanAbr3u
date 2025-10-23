@@ -1,91 +1,99 @@
-# 👋 Olá, eu sou o Ruan!
+# 👩🏻‍💻 Ruan D'Paula
 
+**`Desenvolvedor FullStack`**
 
-## 🚀 Sobre Mim e Minha Paixão
-Sou um estudante entusiasmado de **Engenharia de Software** com um foco duplo:
-1.  **Transformar dados** em insights valiosos (Data, AI e Automação).
-2.  **Construir aplicações web** robustas e interativas (Front-end e Back-end).
+Me chamo Ruan de Abreu Santos de Paula, tenho 22 anos e sou natural da Bahia. Concluí o ensino médio no CEAS, com o curso em informática. Atualmente, estou cursando Engenharia de SoftWare na Uniasselvi . Sou apaixonado por tecnologia e compartilho meu conhecimento através de projetos pessoais.
 
-Estou sempre em busca de aprender e aplicar novas ferramentas, do banco de dados ao navegador!
-
-🎓 Estudante de **Engenharia de Software** 
-📊 Paixão por **Dados, Automação e Inteligência Artificial** 
-💻 Focado em **Desenvolvimento Web**,**Banco de Dados** 
-⚙️ Formação complementar em **Análise de Dados, IA Industrial e Eletromecânica**
-
----
-
-## 🛠️ Minhas Habilidades Técnicas
-
-Minha experiência é focada em desenvolver soluções robustas e práticas, abrangendo a tríade **Dados**, **Automação** e **Desenvolvimento Web**:
-
-| Categoria             | Tecnologias e Ferramentas                          |
-|----------------------|----------------------------------------------------|
-| **Linguagens**        | `Python`, `JavaScript`, `SQL`                      |
-| **Front-end**         | `HTML5`, `CSS3`                                    |
-| **Cloud & BD**        | `Microsoft Azure`, `Banco de Dados Relacionais`   |
-| **Visualização**      | `Power BI`                                         |
-| **Controle de Versão**| `Git`, `GitHub`                                    |
-| **Conceitos**         | `Análise de Dados`, `Modelagem de BD`, `Automação`|
-
-
-### **Emblemas Detalhados**
-
-Aqui estão todos os seus emblemas, incluindo as novas tecnologias:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](<i class="devicon-css3-plain-wordmark colored"></i>)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-0064a5?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-## 🎯 Foco e Oportunidades
-Atualmente, estou focado em aplicar meus conhecimentos em Engenharia de Software para desenvolver soluções completas — da coleta e tratamento de dados à construção de interfaces intuitivas.
-
-👉 Estou aberto a oportunidades nas áreas de Desenvolvimento Web (Front-end ou Full-stack), Dados e Automação.
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :---: | :---: |
-| **Cronômetro Web** | Um cronômetro funcional, desenvolvido para aplicar e consolidar conceitos de manipulação do DOM com JavaScript, HTML e CSS. | HTML, CSS, JavaScript | [Repositório](https://github.com/RuanAbr3u/cronometro) |
-| **Desafio SQL DIO** | Modelagem de banco de dados relacional e consultas complexas em SQL | SQL | [Repositório](https://github.com/RuanAbr3u/DESAFIO-SQL-DIO-2) |
-| **Python – Análise de Dados** | Scripts para coleta, limpeza, tratamento e visualização de dados (Python, Pandas) | Python, Pandas | [Repositório](https://github.com/RuanAbr3u/Analise-Temperatura) |
-
----
-
-## 📊 Estatísticas do GitHub
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuanAbr3u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ruan GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanAbr3u&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=RuanAbr3u&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%">
+<a href="https://github.com/RuanAbr3u?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/RuanAbr3u?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
-
 ---
 
-## 📫 Entre em Contato!
+### 🤖 Linguagens e Tecnologias
 
-Conecte-se comigo e vamos conversar sobre tecnologia e dados:
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-| Plataforma | Link |
-| :--- | :---: |
-| **LinkedIn** | [Ruan de Abreu Santos de Paula](https://www.linkedin.com/in/ruan-abr3u-ti/) |
-| **Email** | *ruansanttos0109@gmail.com* |
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 
-<div align="center">
-    <br>
-    ⭐ Se curtiu algum dos meus projetos, não esqueça de deixar uma estrela!
-</div>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
