@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ruan D'Paula
+# 👨🏽‍💻 Ruan D'Paula
 
 **`Desenvolvedor Back-End, em busca de me tonar um Desenvolvedor FullStack`**
 
