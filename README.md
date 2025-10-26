@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Ruan D'Paula
 
-**`Desenvolvedor Back-End, em busca de me tonar um Desenvolvedor FullStack`**
+**`Desenvolvedor Front-end, em busca de me tonar um Desenvolvedor FullStack`**
 
 Me chamo Ruan de Abreu Santos de Paula, tenho 22 anos e sou natural da Bahia. Concluí o ensino médio no CEAS, com o curso em informática. Atualmente, estou cursando Engenharia de SoftWare na Uniasselvi . Sou apaixonado por tecnologia e compartilho meu conhecimento através de projetos pessoais.
 
