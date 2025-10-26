@@ -23,7 +23,7 @@ Me chamo Ruan de Abreu Santos de Paula, tenho 22 anos e sou natural da Bahia. Co
         <img
             alt="LinkedIn"
             title="Meu LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-RuanAbr3u-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
